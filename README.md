@@ -6,4 +6,4 @@
 
 `node index.js`
 
-#### You will get page title in command line console.
+#### You will see page title in command line.
